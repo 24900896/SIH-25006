@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 27-11-2025
+## Reference Number: 212224230239
+## Name: SANDEEP S
 ## Problem Title
 SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
 ## Problem Description
@@ -47,9 +47,17 @@ Remove These Lines
 3. Innovation and uniqueness of the solution
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+
+1.Biosecurity Risk Assessment Engine
+2.Interactive Training & Knowledge Hub
+3.Compliance Tracking & Audit Module
+4.Real-Time Alerts & Notifications
+5.Farm Dashboard & Monitoring
+6.Offline-First Mobile App
+7.Collaboration Features
+
+
+
 
 ## Feasibility and Viability
 Remove These Lines
@@ -58,10 +66,17 @@ Remove These Lines
 3. Strategies for overcoming these challenges
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+
+1.Technically feasible with current web/mobile frameworks.
+2.Affordable for farmers if supported by government schemes.
+3.IoT integration optional — keeps cost flexible.
+4.Scalable architecture for nationwide adoption.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7f96577d-0ec6-4c98-a50d-b59e724a458f" />
+
+
+1.https://www.ceew.in/publications/sustainable-agriculture-india/precision-farming?utm_source=chatgpt.com
+
+2.https://community.nasscom.in/communities/ai/iot-and-ai-solutions-sustainable-farming-india?utm_source=chatgpt.com
+
